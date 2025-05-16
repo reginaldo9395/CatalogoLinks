@@ -37,3 +37,16 @@ Um repositório colaborativo com links organizados por categoria para facilitar 
 
 - [Coursera](https://www.coursera.org/) – Cursos online de diversas áreas.
 - [Udemy](https://www.udemy.com/) – Plataforma de cursos online.
+
+
+## 🤝 Como Contribuir
+
+Para adicionar um novo link:
+
+1. Escolha a categoria apropriada.
+2. Use o formato: `- Nome do Recurso – Descrição curta.`
+3. Faça um Pull Request com sua sugestão.
+
+Exemplo:
+- Figma – Ferramenta de design colaborativo.
+
